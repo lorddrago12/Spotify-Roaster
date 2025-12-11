@@ -90,5 +90,3 @@ pip install google-genai
 * Add GUI version
 
 ---
-
-If you want a more advanced or stylish README format for GitHub, I can improve this anytime!
